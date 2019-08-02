@@ -1,0 +1,11 @@
+## Sign Up
+
+POST http://localhost:8000/cal/calculate
+Content-Type: application/json
+
+{
+  "n1": 1,
+  "n2": 5
+}
+
+###
